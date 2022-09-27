@@ -1,0 +1,39 @@
+{
+     "personagens":[
+        {
+          "id": 1,
+          "nome": "Michael",
+          "idade": 42,
+          "genero": "masc"
+        },
+        {
+          "id": 2,
+          "nome": "Pam",
+          "idade": 39,
+          "genero": "fem"
+        },
+        {
+          "id": 3,
+          "nome": "Jim",
+          "idade": 40,
+          "genero": "masc"
+        }
+    ],
+    "enderecos":[
+        {
+          "id":1,
+          "Rua": "da frente",
+          "numero": 3
+        },
+        {
+          "id":2,
+          "Rua": "de tras",
+          "numero": 9
+        },
+        {
+          "id":3,
+          "Rua": "da frente",
+          "numero": 3
+        }
+    ]
+}
